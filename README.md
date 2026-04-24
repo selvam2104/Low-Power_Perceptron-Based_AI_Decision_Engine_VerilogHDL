@@ -25,6 +25,8 @@ The system is divided into the following modules:
 * **Perceptron Core** → Computes weighted sum (MAC operation)
 * **Activation Layer** → Applies threshold to generate prediction
 * **UART TX (optional)** → Sends output back to host
+  
+For detailed RTL module description, refer to: **rtl/README.md**
 
 ---
 
